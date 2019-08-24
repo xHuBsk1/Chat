@@ -1,0 +1,7 @@
+name: hChat
+version: 1.0
+author: xHuBsk1
+description: Plugin na chat na YT (Speed Cooding)
+
+commands:
+  chat:

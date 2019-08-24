@@ -1,0 +1,24 @@
+permission:
+  chat: "chat.use"
+  say: "chat.vip"
+
+chat:
+  on:
+    - ""
+    - " &cChat zostal wlaczony przez &a{ADMIN}"
+    - ""
+  off:
+    - ""
+    - " &cChat zostal wylaczony przez &a{ADMIN}"
+    - ""
+  cc:
+    - ""
+    - " &cChat zostal wyczyszczony przez &a{ADMIN}"
+    - ""
+
+wiadomosc:
+  chatoff:
+    - ""
+    - " &8>> &7Przykro mi &a{PLAYER} &7ale chat jest wylaczony!"
+    - " &8>> &7Aby pisac na chacie, zakup range &6VIP&7!"
+    - ""
